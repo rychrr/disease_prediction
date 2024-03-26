@@ -1,0 +1,140 @@
+2024-02-04 14:14:55,863 - INFO - Dataset loaded successfully.
+2024-02-04 14:14:56,284 - INFO - Random Forest Model trained successfully.
+2024-02-04 14:15:13,871 - INFO - SVM Model trained successfully.
+2024-02-04 14:15:13,887 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 14:15:13,887 - INFO - All Models trained successfully.
+2024-02-04 14:15:13,899 - INFO - Random Forest model saved.
+2024-02-04 14:15:13,906 - INFO - SVM model saved.
+2024-02-04 14:15:13,907 - INFO - Naive Bayes model saved.
+2024-02-04 14:15:13,907 - INFO - LabelEncoder saved.
+2024-02-04 14:16:30,944 - INFO - Dataset loaded successfully.
+2024-02-04 14:16:31,362 - INFO - Random Forest Model trained successfully.
+2024-02-04 14:16:48,042 - INFO - SVM Model trained successfully.
+2024-02-04 14:16:48,057 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 14:16:48,057 - INFO - All Models trained successfully.
+2024-02-04 14:16:48,068 - INFO - Random Forest model saved.
+2024-02-04 14:16:48,074 - INFO - SVM model saved.
+2024-02-04 14:16:48,075 - INFO - Naive Bayes model saved.
+2024-02-04 14:16:48,075 - INFO - LabelEncoder saved.
+2024-02-04 15:11:24,219 - INFO - Dataset loaded successfully.
+2024-02-04 15:11:24,634 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:11:43,961 - INFO - SVM Model trained successfully.
+2024-02-04 15:11:43,978 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:11:43,978 - INFO - All Models trained successfully.
+2024-02-04 15:11:43,993 - INFO - Random Forest model saved.
+2024-02-04 15:11:43,999 - INFO - SVM model saved.
+2024-02-04 15:11:44,003 - INFO - Naive Bayes model saved.
+2024-02-04 15:11:44,008 - INFO - LabelEncoder saved.
+2024-02-04 15:11:44,012 - INFO - Features saved.
+2024-02-04 15:31:52,269 - INFO - Dataset loaded successfully.
+2024-02-04 15:31:52,701 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:32:11,370 - INFO - SVM Model trained successfully.
+2024-02-04 15:32:11,386 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:32:11,386 - INFO - All Models trained successfully.
+2024-02-04 15:32:11,400 - INFO - Random Forest model saved.
+2024-02-04 15:32:11,406 - INFO - SVM model saved.
+2024-02-04 15:32:11,407 - INFO - Naive Bayes model saved.
+2024-02-04 15:32:11,408 - INFO - LabelEncoder saved.
+2024-02-04 15:32:11,412 - INFO - Features saved.
+2024-02-04 15:45:31,244 - ERROR - An error occurred: Passing a bool to header is invalid. Use header=None for no header or header=int or list-like of ints to specify the row(s) making up the column names
+2024-02-04 15:45:40,639 - ERROR - An error occurred: Passing a bool to header is invalid. Use header=None for no header or header=int or list-like of ints to specify the row(s) making up the column names
+2024-02-04 15:46:19,687 - INFO - Dataset loaded successfully.
+2024-02-04 15:46:20,101 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:46:37,387 - INFO - SVM Model trained successfully.
+2024-02-04 15:46:37,400 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:46:37,400 - INFO - All Models trained successfully.
+2024-02-04 15:46:37,415 - INFO - Random Forest model saved.
+2024-02-04 15:46:37,425 - INFO - SVM model saved.
+2024-02-04 15:46:37,426 - INFO - Naive Bayes model saved.
+2024-02-04 15:46:37,427 - INFO - LabelEncoder saved.
+2024-02-04 15:46:37,429 - INFO - Features saved.
+2024-02-04 15:46:46,883 - INFO - Dataset loaded successfully.
+2024-02-04 15:46:47,291 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:47:05,130 - INFO - SVM Model trained successfully.
+2024-02-04 15:47:05,144 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:47:05,144 - INFO - All Models trained successfully.
+2024-02-04 15:47:05,158 - INFO - Random Forest model saved.
+2024-02-04 15:47:05,166 - INFO - SVM model saved.
+2024-02-04 15:47:05,167 - INFO - Naive Bayes model saved.
+2024-02-04 15:47:05,167 - INFO - LabelEncoder saved.
+2024-02-04 15:47:05,170 - INFO - Features saved.
+2024-02-04 15:48:21,363 - INFO - Dataset loaded successfully.
+2024-02-04 15:48:21,780 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:48:40,738 - INFO - SVM Model trained successfully.
+2024-02-04 15:48:40,754 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:48:40,755 - INFO - All Models trained successfully.
+2024-02-04 15:48:40,773 - INFO - Random Forest model saved.
+2024-02-04 15:48:40,781 - INFO - SVM model saved.
+2024-02-04 15:48:40,783 - INFO - Naive Bayes model saved.
+2024-02-04 15:48:40,783 - INFO - LabelEncoder saved.
+2024-02-04 15:48:40,788 - INFO - Features saved.
+2024-02-04 15:48:59,144 - INFO - Dataset loaded successfully.
+2024-02-04 15:48:59,644 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:49:18,382 - INFO - SVM Model trained successfully.
+2024-02-04 15:49:18,396 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:49:18,396 - INFO - All Models trained successfully.
+2024-02-04 15:49:18,411 - INFO - Random Forest model saved.
+2024-02-04 15:49:18,416 - INFO - SVM model saved.
+2024-02-04 15:49:18,418 - INFO - Naive Bayes model saved.
+2024-02-04 15:49:18,418 - INFO - LabelEncoder saved.
+2024-02-04 15:49:18,424 - INFO - Features saved.
+2024-02-04 15:49:39,744 - INFO - Dataset loaded successfully.
+2024-02-04 15:49:40,120 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:50:00,026 - INFO - SVM Model trained successfully.
+2024-02-04 15:50:00,046 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:50:00,046 - INFO - All Models trained successfully.
+2024-02-04 15:50:00,061 - INFO - Random Forest model saved.
+2024-02-04 15:50:00,068 - INFO - SVM model saved.
+2024-02-04 15:50:00,070 - INFO - Naive Bayes model saved.
+2024-02-04 15:50:00,071 - INFO - LabelEncoder saved.
+2024-02-04 15:50:00,074 - INFO - Features saved.
+2024-02-04 15:50:04,122 - INFO - Dataset loaded successfully.
+2024-02-04 15:50:04,526 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:50:21,882 - INFO - SVM Model trained successfully.
+2024-02-04 15:50:21,897 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:50:21,897 - INFO - All Models trained successfully.
+2024-02-04 15:50:21,910 - INFO - Random Forest model saved.
+2024-02-04 15:50:21,916 - INFO - SVM model saved.
+2024-02-04 15:50:21,917 - INFO - Naive Bayes model saved.
+2024-02-04 15:50:21,918 - INFO - LabelEncoder saved.
+2024-02-04 15:50:21,922 - INFO - Features saved.
+2024-02-04 15:56:17,205 - INFO - Dataset loaded successfully.
+2024-02-04 15:56:17,522 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:56:18,922 - INFO - SVM Model trained successfully.
+2024-02-04 15:56:18,937 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:56:18,937 - INFO - All Models trained successfully.
+2024-02-04 15:56:18,953 - INFO - Random Forest model saved.
+2024-02-04 15:56:18,955 - INFO - SVM model saved.
+2024-02-04 15:56:18,955 - INFO - Naive Bayes model saved.
+2024-02-04 15:56:18,958 - INFO - LabelEncoder saved.
+2024-02-04 15:56:18,963 - INFO - Features saved.
+2024-02-04 15:56:28,280 - INFO - Dataset loaded successfully.
+2024-02-04 15:56:28,668 - INFO - Random Forest Model trained successfully.
+2024-02-04 15:56:30,136 - INFO - SVM Model trained successfully.
+2024-02-04 15:56:30,149 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 15:56:30,149 - INFO - All Models trained successfully.
+2024-02-04 15:56:30,162 - INFO - Random Forest model saved.
+2024-02-04 15:56:30,165 - INFO - SVM model saved.
+2024-02-04 15:56:30,165 - INFO - Naive Bayes model saved.
+2024-02-04 15:56:30,166 - INFO - LabelEncoder saved.
+2024-02-04 15:56:30,170 - INFO - Features saved.
+2024-02-04 16:00:03,555 - INFO - Dataset loaded successfully.
+2024-02-04 16:00:03,910 - INFO - Random Forest Model trained successfully.
+2024-02-04 16:00:05,273 - INFO - SVM Model trained successfully.
+2024-02-04 16:00:05,288 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 16:00:05,288 - INFO - All Models trained successfully.
+2024-02-04 16:00:05,302 - INFO - Random Forest model saved.
+2024-02-04 16:00:05,303 - INFO - SVM model saved.
+2024-02-04 16:00:05,303 - INFO - Naive Bayes model saved.
+2024-02-04 16:00:05,303 - INFO - LabelEncoder saved.
+2024-02-04 16:00:05,308 - INFO - Features saved.
+2024-02-04 17:13:40,633 - INFO - Dataset loaded successfully.
+2024-02-04 17:13:40,997 - INFO - Random Forest Model trained successfully.
+2024-02-04 17:13:42,560 - INFO - SVM Model trained successfully.
+2024-02-04 17:13:42,577 - INFO - Naives Bayes Model trained successfully.
+2024-02-04 17:13:42,577 - INFO - All Models trained successfully.
+2024-02-04 17:13:42,593 - INFO - Random Forest model saved.
+2024-02-04 17:13:42,594 - INFO - SVM model saved.
+2024-02-04 17:13:42,597 - INFO - Naive Bayes model saved.
+2024-02-04 17:13:42,597 - INFO - LabelEncoder saved.
+2024-02-04 17:13:42,602 - INFO - Features saved.

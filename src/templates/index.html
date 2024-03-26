@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check probably disease from symptoms</title>
+    
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    
+</head>
+<body>
+
+<header>
+    <h1>CHECK FOR PROBABLE DISEASE</h1>
+</header>
+
+<form id="symptomForm" method="POST">
+    <div>
+        <label for="fullName">Full Name:</label>
+        <input type="text" id="fullName" name="fullName" required>
+    </div>
+    <div>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required min="1" max="120">
+    </div>
+    <div>
+        <label for="symptoms">Symptoms:</label>
+        <select id="symptoms" name="symptoms" multiple required>
+            {% for symptom in symptoms %}
+                <option value="{{ symptom }}">{{ symptom }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div>
+        <button type="submit">Submit</button>
+        <button type="button" onclick="clearForm()">Clear</button>
+    </div>
+
+    {% if result %}
+    <div id="result">
+        <p style="display: inline;"> Hello, <b>{{ name }}, </b> The most probable disease for the selected sympthom(s) - <i>{{ selected_symptoms }} is </i></p>
+        <p style="color: brown; display:inline; font-size:larger; font-weight:bolder">{{ result }}</p>
+    </div>
+    {% endif %}
+
+</form>
+
+
+<script>
+    // Function to clear the form and hide the previous result section
+    function clearForm() {
+        document.getElementById("symptomForm").reset();
+        var resultSection = document.getElementById("result");
+        resultSection.style.display = "none"; // Hide result section
+    }
+
+    // Function to toggle visibility of result section
+    function toggleResult() {
+        var resultSection = document.getElementById("result");
+        resultSection.style.display = "block"; // Show result
+    }
+</script>
+
+</body>
+</html>

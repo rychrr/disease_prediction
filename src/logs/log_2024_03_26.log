@@ -1,0 +1,10 @@
+2024-03-26 07:41:53,545 - INFO - Dataset loaded successfully.
+2024-03-26 07:41:53,917 - INFO - Random Forest Model trained successfully.
+2024-03-26 07:41:55,359 - INFO - SVM Model trained successfully.
+2024-03-26 07:41:55,372 - INFO - Naives Bayes Model trained successfully.
+2024-03-26 07:41:55,372 - INFO - All Models trained successfully.
+2024-03-26 07:41:55,387 - INFO - Random Forest model saved.
+2024-03-26 07:41:55,389 - INFO - SVM model saved.
+2024-03-26 07:41:55,390 - INFO - Naive Bayes model saved.
+2024-03-26 07:41:55,392 - INFO - LabelEncoder saved.
+2024-03-26 07:41:55,397 - INFO - Features saved.
