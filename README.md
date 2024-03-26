@@ -7,13 +7,13 @@ This is a Flask-based web application that predicts probable diseases based on u
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <url not yet moved to github>
+    git clone < not yet moved to github>
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd disease_prediction_webapp
+    cd disease_pred
     ```
 
 3. Install the required dependencies using pip:
@@ -41,20 +41,33 @@ This is a Flask-based web application that predicts probable diseases based on u
 6. To clear the form, click the "Clear" button.
 
 ## Directory Structure
-|-- app.py # Main Flask application file
+
 |-- README.md # Project README and documentation
 |-- requirements.txt # Required Python dependencies
 |-- src # Source code directory
-| |-- model # Directory containing ML models and data
-| | |-- features.pkl # Pickled file containing features (symptoms)
-| | |-- encoder.pkl # Pickled file containing encoder
-| | |-- rf_model.pkl # Pickled file containing Random Forest model
-| | |-- svm_model.pkl # Pickled file containing SVM model
-| | |-- nb_model.pkl # Pickled file containing Naive Bayes model
-|-- static # Static files directory
-| |-- style.css # CSS file for styling the web application
-|-- templates # HTML templates directory
-| |-- index.html # HTML template for the web application interface
+  |-- app.py # Main Flask application file
+  |-- Datasets
+    |-- combined_data.csv
+    |-- testing.csv
+    |-- training.csv
+    |-- docs
+        |-- Disease Prediction - Docs.docx
+        |-- Disease_Prediction_model.drawio
+        |-- disease_predictor_worksheet.pdf
+        |-- OLUTOMIWA PROJECT PROPOSAL for Machine learning and disease outbreake prediction.docx
+        |-- worlflow_desgins.png
+    |-- notebooks
+        |-- disease_predictor_worksheet.ipynb
+    | |-- model # Directory containing ML models and data
+    | | |-- features.pkl # Pickled file containing features (symptoms)
+    | | |-- encoder.pkl # Pickled file containing encoder
+    | | |-- rf_model.pkl # Pickled file containing Random Forest model
+    | | |-- svm_model.pkl # Pickled file containing SVM model
+    | | |-- nb_model.pkl # Pickled file containing Naive Bayes model
+    |-- static # Static files directory
+    | |-- style.css # CSS file for styling the web application
+    |-- templates # HTML templates directory
+    | |-- index.html # HTML template for the web application interface
 
 
 ## Technologies Used
@@ -68,7 +81,7 @@ This is a Flask-based web application that predicts probable diseases based on u
 ## Credits
 
 - The ML models and data used in this project are sourced from [Kaggle](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning).
-- This project was developed by Ejike Ozonkwo.
+- This project was developed by Olutomiwa.
 
 ## License
 
