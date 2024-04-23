@@ -81,7 +81,8 @@ This is a Flask-based web application that predicts probable diseases based on u
 ## Credits
 
 - The ML models and data used in this project are sourced from [Kaggle](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning).
-- This project was developed by Olutomiwa.
+
+- This project was developed by [Ejike Ozonkwo](https://github.com/rychrr).
 
 ## License
 

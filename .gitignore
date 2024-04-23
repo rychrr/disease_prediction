@@ -127,10 +127,11 @@ venv.bak/
 # SFTP configuration file
 sftp-config.json
 
-#personal files
+#personal files`
 olu_proj
-/olu_proj**
-olu_proj/bin*
+olu_proj/*
+./olu_proj
+
 
 
 # Komodo IDE
