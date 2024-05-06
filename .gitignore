@@ -8,6 +8,7 @@ __pycache__/
 
 #personal documents
 olu_proj/**
+olu_proj
 
 # Distribution / packaging
 .Python
