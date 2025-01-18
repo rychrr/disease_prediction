@@ -3,6 +3,7 @@ import pickle
 import numpy as  np 
 import pandas as pd
 from flask import Flask, render_template, request
+import warnings
 
 model_dir = os.path.join(os.pardir,'disease_pred','src','model')
 
